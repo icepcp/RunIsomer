@@ -339,3 +339,7 @@ $desktop: 960px + (2 * $gap) !default;
 .bp-masthead {
   visibility: hidden;
 }
+	  
+.masthead-container {
+  margin-top: -1rem;
+}
