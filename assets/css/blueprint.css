@@ -4601,7 +4601,7 @@ a.has-text-danger:focus {
 .bp-notification {
     background-color: whitesmoke;
     border-radius: 0;
-    padding: 0.9375rem 0.9375rem 0.9375rem 1.2rem;
+    padding: 0.9375rem 0.9375rem 0.9375rem 1.4rem;
     position: absolute;
     width: 100%;
     z-index: 2;
