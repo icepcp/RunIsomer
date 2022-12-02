@@ -4601,7 +4601,7 @@ a.has-text-danger:focus {
 .bp-notification {
     background-color: whitesmoke;
     border-radius: 0;
-    padding: 0.9375rem 2.5rem 0.9375rem 1.8rem;
+    padding: 0.9375rem;
     position: absolute;
     width: 100%;
     z-index: 2;
@@ -4902,6 +4902,9 @@ table.table-h tbody tr:last-child th {
     .bottom-navigation a {
         padding-left: 1.5em;
         padding-right: 1.5rem;
+    }
+    .bp-notification {
+        padding: 0.9375rem 2.5rem 0.9375rem 1.8rem;
     }
 }
 .bottom-navigation a:hover {
