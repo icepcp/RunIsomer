@@ -7414,6 +7414,9 @@ a.navbar-link.is-active {
     }
 }
 @media screen and (max-width: 1023px) {
+    .bp-notification-flex.field {
+        padding: 0 0.1rem 0 0;
+    }
     .col.is-narrow-touch {
         flex: none;
     }
