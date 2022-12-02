@@ -10378,6 +10378,7 @@ h6 center {
 .bp-masthead .masthead-divider {
     width: 100%;
     border-bottom: solid 0px #CCCCCC;
+    height: 0%;
 }
 
 .bp-masthead .masthead-divider.is-hidden {
