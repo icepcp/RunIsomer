@@ -10380,6 +10380,7 @@ h6 center {
 
 .bp-masthead .masthead-divider.is-hidden {
     display:none;
+    height: 0%;
 }
 
 @media screen and (max-width: 1023px) {
